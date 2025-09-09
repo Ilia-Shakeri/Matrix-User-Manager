@@ -3,8 +3,10 @@
 > Interactive CLI tool for managing Matrix (Synapse) users inside Docker containers.  
 > Built for reliability and real-world DevOps workflows.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
-[![Supported DBs](https://img.shields.io/badge/DB-Postgres%20%7C%20SQLite-lightgrey.svg)](#features)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#license)
+[![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgres&logoColor=white)](#features)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#features)
+[![Status](https://img.shields.io/badge/status-completed-2ea44f?style=for-the-badge)](#)
 
 ---
 
