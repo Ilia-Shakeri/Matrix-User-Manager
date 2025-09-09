@@ -1,0 +1,22 @@
+# logs & backups
+*.log
+*.sql
+*.db
+*.bak
+
+# temporary & editor
+/tmp/
+*.swp
+*~ 
+.DS_Store
+
+# node / python artifacts (if any)
+node_modules/
+__pycache__/
+
+# secrets / env
+*.env
+*.pem
+*.key
+certs/*.key
+certs/*.pem
