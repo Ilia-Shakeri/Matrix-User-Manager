@@ -12,6 +12,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
+
 ### ---------- CONFIG ----------
 SCRIPT_NAME="matrix_user_manager.sh"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
