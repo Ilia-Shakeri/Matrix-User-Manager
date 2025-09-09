@@ -33,6 +33,8 @@ This repo contains the script `matrix_user_manager.sh` and supporting docs.
 Place a screenshot named `assets/whiptail-menu.png` (see **How to add the screenshot** below). Rendered here:
 
 ![Whiptail menu](assets/whiptail-menu.png)
+![Whiptail menu2](assets/whiptail-menu2.png)
+
 
 ---
 
