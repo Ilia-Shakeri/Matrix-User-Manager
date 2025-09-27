@@ -64,6 +64,12 @@
 
 ---
 
+## Demo (whiptail)
+![Whiptail menu](assets/whiptail-menu.png)
+![Whiptail menu2](assets/whiptail-menu2.png)
+
+---
+
 ## Requirements
 
 ### System Requirements
